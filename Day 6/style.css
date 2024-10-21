@@ -1,0 +1,53 @@
+h1 {
+  color: purple;
+  font-style: italic;
+  font-size: 52px;
+  background-color: rgb(96, 122, 122);
+}
+/* for styling by id  */
+#myId {
+  color: purple;
+  font-style: italic;
+  font-size: 52px;
+  background-color: rgb(96, 122, 122);
+}
+
+/* for styling by class  */
+.myClass {
+  color: rgb(70, 0, 128);
+  font-style: italic;
+  font-size: 42px;
+  background-color: rgb(96, 122, 122);
+}
+
+h3 {
+  background-color: rgb(243, 76, 70);
+  font-size: 38px;
+  font-style: italic;
+}
+
+p {
+  background-color: rgb(230, 227, 98);
+  font-size: 24px;
+  font-style: italic;
+}
+
+body {
+  background-color: pink;
+}
+
+button {
+  background-color: blue;
+  font-size: x-large;
+  font-style: oblique;
+  color: white;
+}
+
+.box {
+   height: 100px; 
+   width: 100px;
+   border: 3px solid black;
+   margin: 10px;
+   text-align: center;
+   background-color: aqua;
+}
