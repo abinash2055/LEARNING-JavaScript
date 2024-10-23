@@ -37,6 +37,7 @@ h1 {
     width: 18vmin;
     border-radius: 1rem;
     border: none;
+    background-color: bisque;
     box-shadow: 0 0 1rem rgba(0,0,0,2);
     font-size: 8vmin;
     color: rgb(52, 19, 240);
@@ -46,5 +47,36 @@ h1 {
     padding: 0.5rem;
     margin-bottom: 14rem;
     font-size: 1.25rem;
+    color: #fff;
     background-color:brown;
+    border-radius: 1rem;
+
+}
+
+#new-btn {
+    padding: 0.5rem;
+    margin-bottom: 14rem;
+    font-size: 1.25rem;
+    color: #fff;
+    background-color:brown;
+    border-radius: 1rem;
+
+}
+
+#msg {
+    color: bisque;
+    font-size: 8vmin;
+}
+
+.msg-container {
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem
+}
+
+.hide {
+    display: none;
 }
